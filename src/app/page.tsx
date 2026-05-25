@@ -48,8 +48,8 @@ export default function LandingPage() {
             tag="NEW DROP"
             buttons={[{ text: "Shop Now", href: "#products" }]}
             mediaItems={[
-              { imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg", imageAlt: "streetwear model hoodie dark background" },
-              { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg", imageAlt: "streetwear fashion urban alleyway" }
+              { imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg?_wi=1", imageAlt: "streetwear model hoodie dark background" },
+              { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg?_wi=1", imageAlt: "streetwear fashion urban alleyway" }
             ]}
             mediaAnimation="blur-reveal"
             rating={5}
@@ -69,7 +69,7 @@ export default function LandingPage() {
               { title: "Drop Culture", description: "Limited edition gear that moves with you." },
               { title: "Community First", description: "Designed by creators, for creators." },
             ]}
-            imageSrc="http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg?_wi=1"
             imageAlt="premium streetwear fabric texture"
             mediaAnimation="blur-reveal"
           />
@@ -84,7 +84,7 @@ export default function LandingPage() {
             title="Why You Need This"
             description="Tech-driven apparel designed to handle your daily hustle."
             features={[
-              { title: "Smart Fit", description: "Adaptive clothing that fits like a second skin.", phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-concept-with-full-clothing-store_23-2150871154.jpg", imageAlt: "modern ui interface adaptive design" }, phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/factory-employee-works-mockup-tablet-executives-discussing-strategies_482257-126500.jpg", imageAlt: "ui interface tech mockup" } },
+              { title: "Smart Fit", description: "Adaptive clothing that fits like a second skin.", phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-concept-with-full-clothing-store_23-2150871154.jpg?_wi=1", imageAlt: "modern ui interface adaptive design" }, phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/factory-employee-works-mockup-tablet-executives-discussing-strategies_482257-126500.jpg?_wi=1", imageAlt: "ui interface tech mockup" } },
               { title: "Hyper-Durable", description: "Built to last through every skate session.", phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/fabric-texture-background_1388-107.jpg", imageAlt: "durable fabric detail stitching" }, phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-sewing-inside_23-2149007436.jpg", imageAlt: "industrial sewing apparel production" } },
               { title: "Digital Assets", description: "Every drop includes a digital collectible.", phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/3d-shape-glowing-with-bright-holographic-colors_23-2151037295.jpg", imageAlt: "digital fashion collectible graphic" }, phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-sale-glowing-3d-monitor_23-2152033018.jpg", imageAlt: "vr interface digital asset fashion" } }
             ]}
@@ -129,11 +129,11 @@ export default function LandingPage() {
             textboxLayout="split"
             useInvertedBackground={false}
             testimonials={[
-              { id: "1", name: "Alex", date: "Jan 2025", title: "Trendsetter", quote: "Best hoodie I own, period.", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/portrait-handsome-man-with-long-blonde-hair-wearing-red-jacket_23-2149020151.jpg", imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg" },
-              { id: "2", name: "Riley", date: "Feb 2025", title: "Influencer", quote: "Quality is insane, fits perfect.", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-girl-posing-with-wall_23-2148629723.jpg", imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg" },
-              { id: "3", name: "Jordan", date: "Mar 2025", title: "Collector", quote: "Everything sells out too fast!", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/portrait-diverse-latin-people_23-2151057810.jpg", imageSrc: "http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg" },
-              { id: "4", name: "Sam", date: "Apr 2025", title: "Fan", quote: "The tech fabrics are next level.", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/two-mixed-race-black-woman-hugs-outdoor-portrait-two-mixed-race-woman-with-huge-afro-hair_633478-470.jpg", imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-concept-with-full-clothing-store_23-2150871154.jpg" },
-              { id: "5", name: "Kai", date: "May 2025", title: "Fan", quote: "Already copped 3 drops.", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-woman-2000s-fashion-style-posing-with-tv_23-2149442885.jpg", imageSrc: "http://img.b2bpic.net/free-photo/factory-employee-works-mockup-tablet-executives-discussing-strategies_482257-126500.jpg" }
+              { id: "1", name: "Alex", date: "Jan 2025", title: "Trendsetter", quote: "Best hoodie I own, period.", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/portrait-handsome-man-with-long-blonde-hair-wearing-red-jacket_23-2149020151.jpg", imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg?_wi=2" },
+              { id: "2", name: "Riley", date: "Feb 2025", title: "Influencer", quote: "Quality is insane, fits perfect.", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-girl-posing-with-wall_23-2148629723.jpg", imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg?_wi=2" },
+              { id: "3", name: "Jordan", date: "Mar 2025", title: "Collector", quote: "Everything sells out too fast!", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/portrait-diverse-latin-people_23-2151057810.jpg", imageSrc: "http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg?_wi=2" },
+              { id: "4", name: "Sam", date: "Apr 2025", title: "Fan", quote: "The tech fabrics are next level.", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/two-mixed-race-black-woman-hugs-outdoor-portrait-two-mixed-race-woman-with-huge-afro-hair_633478-470.jpg", imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-concept-with-full-clothing-store_23-2150871154.jpg?_wi=2" },
+              { id: "5", name: "Kai", date: "May 2025", title: "Fan", quote: "Already copped 3 drops.", tag: "Verified", avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-woman-2000s-fashion-style-posing-with-tv_23-2149442885.jpg", imageSrc: "http://img.b2bpic.net/free-photo/factory-employee-works-mockup-tablet-executives-discussing-strategies_482257-126500.jpg?_wi=2" }
             ]}
             title="What They Say"
             description="See why everyone is talking about the new collection."
