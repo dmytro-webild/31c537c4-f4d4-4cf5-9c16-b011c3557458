@@ -98,15 +98,15 @@ export default function LandingPage() {
             gridVariant="uniform-all-items-equal"
             useInvertedBackground={false}
             products={[
-              { id: "p1", name: "Cyber Hoodie", price: "$89", imageSrc: "http://img.b2bpic.net/free-photo/beautiful-blonde-woman-white-hoodie-blue-jeans-posing-against-neon-background_89887-1131.jpg", imageAlt: "product shot hoodie studio black" },
-              { id: "p2", name: "Tech Joggers", price: "$75", imageSrc: "http://img.b2bpic.net/free-photo/view-beige-tone-colored-pants_23-2150773390.jpg", imageAlt: "tech joggers studio product photography" },
-              { id: "p3", name: "Neon Tee", price: "$45", imageSrc: "http://img.b2bpic.net/free-photo/pink-hair-girl-avantgarde-style-wearing-sunglasses_114579-19318.jpg", imageAlt: "graphic t-shirt studio photography" },
-              { id: "p4", name: "Vibe Bomber", price: "$120", imageSrc: "http://img.b2bpic.net/free-photo/american-modern-talk-shirt-male-success_1303-2945.jpg", imageAlt: "bomber jacket streetwear product shot" },
-              { id: "p5", name: "Street Cap", price: "$30", imageSrc: "http://img.b2bpic.net/free-vector/vintage-skull-word-design-vector_53876-80913.jpg", imageAlt: "baseball cap product photography studio" },
-              { id: "p6", name: "Cargo Pants", price: "$95", imageSrc: "http://img.b2bpic.net/free-photo/assortment-beige-tone-colored-pants_23-2150773400.jpg", imageAlt: "cargo trousers apparel product photography" },
+              { id: "p1", name: "Cyber Hoodie", price: "$89", imageSrc: "http://img.b2bpic.net/free-photo/beautiful-blonde-woman-white-hoodie-blue-jeans-posing-against-neon-background_89887-1131.jpg", imageAlt: "product shot hoodie studio black", priceButtonProps: { text: "View Details" } },
+              { id: "p2", name: "Tech Joggers", price: "$75", imageSrc: "http://img.b2bpic.net/free-photo/view-beige-tone-colored-pants_23-2150773390.jpg", imageAlt: "tech joggers studio product photography", priceButtonProps: { text: "View Details" } },
+              { id: "p3", name: "Neon Tee", price: "$45", imageSrc: "http://img.b2bpic.net/free-photo/pink-hair-girl-avantgarde-style-wearing-sunglasses_114579-19318.jpg", imageAlt: "graphic t-shirt studio photography", priceButtonProps: { text: "View Details" } },
+              { id: "p4", name: "Vibe Bomber", price: "$120", imageSrc: "http://img.b2bpic.net/free-photo/american-modern-talk-shirt-male-success_1303-2945.jpg", imageAlt: "bomber jacket streetwear product shot", priceButtonProps: { text: "View Details" } },
+              { id: "p5", name: "Street Cap", price: "$30", imageSrc: "http://img.b2bpic.net/free-vector/vintage-skull-word-design-vector_53876-80913.jpg", imageAlt: "baseball cap product photography studio", priceButtonProps: { text: "View Details" } },
+              { id: "p6", name: "Cargo Pants", price: "$95", imageSrc: "http://img.b2bpic.net/free-photo/assortment-beige-tone-colored-pants_23-2150773400.jpg", imageAlt: "cargo trousers apparel product photography", priceButtonProps: { text: "View Details" } },
             ]}
             title="The Latest Drops"
-            description="Secure your size before the next drop."
+            description="Secure your size before the next drop. Click 'View Details' to explore specifications."
           />
         </div>
 
