@@ -43,7 +43,7 @@ export default function LandingPage() {
         <div id="hero" data-section="hero">
           <HeroSplitDualMedia
             background={{ variant: "glowing-orb" }}
-            title="Level Up Your Fit"
+            title="Wear the Future Before Anyone Else"
             description="Exclusive streetwear drops for the new generation. Limited runs, infinite style."
             tag="NEW DROP"
             buttons={[{ text: "Shop Now", href: "#products" }]}
