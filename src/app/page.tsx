@@ -64,11 +64,11 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg?_wi=1",
           imageAlt: "streetwear model hoodie dark background",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg?_wi=1",
           imageAlt: "streetwear fashion urban alleyway",
         },
         {
@@ -111,7 +111,7 @@ export default function LandingPage() {
           description: "Designed by creators, for creators.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg?_wi=1"
       imageAlt="premium streetwear fabric texture"
       mediaAnimation="blur-reveal"
     />
@@ -126,14 +126,14 @@ export default function LandingPage() {
           title: "Smart Fit",
           description: "Adaptive clothing that fits like a second skin.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-concept-with-full-clothing-store_23-2150871154.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-concept-with-full-clothing-store_23-2150871154.jpg?_wi=1",
             imageAlt: "modern ui interface adaptive design",
           },
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/factory-employee-works-mockup-tablet-executives-discussing-strategies_482257-126500.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/factory-employee-works-mockup-tablet-executives-discussing-strategies_482257-126500.jpg?_wi=1",
             imageAlt: "ui interface tech mockup",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg?_wi=2",
           imageAlt: "modern ui interface adaptive design",
         },
         {
@@ -147,7 +147,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-sewing-inside_23-2149007436.jpg",
             imageAlt: "industrial sewing apparel production",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg?_wi=2",
           imageAlt: "modern ui interface adaptive design",
         },
         {
@@ -161,7 +161,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-sale-glowing-3d-monitor_23-2152033018.jpg",
             imageAlt: "vr interface digital asset fashion",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg?_wi=2",
           imageAlt: "modern ui interface adaptive design",
         },
       ]}
@@ -272,7 +272,7 @@ export default function LandingPage() {
           quote: "Best hoodie I own, period.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-handsome-man-with-long-blonde-hair-wearing-red-jacket_23-2149020151.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-male-performer-dancing-escalators_23-2149344077.jpg?_wi=3",
           imageAlt: "gen z portrait style photography",
         },
         {
@@ -283,7 +283,7 @@ export default function LandingPage() {
           quote: "Quality is insane, fits perfect.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-girl-posing-with-wall_23-2148629723.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-sunglasses_23-2149409792.jpg?_wi=3",
           imageAlt: "gen z portrait style photography",
         },
         {
@@ -294,7 +294,7 @@ export default function LandingPage() {
           quote: "Everything sells out too fast!",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-diverse-latin-people_23-2151057810.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-wearing-trucker-hat_23-2149432375.jpg?_wi=3",
           imageAlt: "gen z portrait style photography",
         },
         {
@@ -305,7 +305,7 @@ export default function LandingPage() {
           quote: "The tech fabrics are next level.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/two-mixed-race-black-woman-hugs-outdoor-portrait-two-mixed-race-woman-with-huge-afro-hair_633478-470.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-concept-with-full-clothing-store_23-2150871154.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-concept-with-full-clothing-store_23-2150871154.jpg?_wi=2",
           imageAlt: "gen z portrait style photography",
         },
         {
@@ -316,7 +316,7 @@ export default function LandingPage() {
           quote: "Already copped 3 drops.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-woman-2000s-fashion-style-posing-with-tv_23-2149442885.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/factory-employee-works-mockup-tablet-executives-discussing-strategies_482257-126500.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/factory-employee-works-mockup-tablet-executives-discussing-strategies_482257-126500.jpg?_wi=2",
           imageAlt: "gen z portrait style photography",
         },
       ]}
